@@ -10,8 +10,6 @@ spartan_TGF_functions.R >> model function
 
 spartan_TGF_paramters.R >> run model across managment space
 
-spartan_TGF_dataClean.R >> figure outputs for MS
-
 job_submission.slurm    >> submit job to SPARTAN
 
 batch_submission.slurm  >> batch submit job_submission.slurm 
